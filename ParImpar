@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/**
+ * 
+ * @author Hudson, Gabriel
+ *classe que checa se o numero inserido eh par ou impar
+ */
 
 public class ParImpar {
 
