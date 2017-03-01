@@ -24,7 +24,7 @@ public class Aumento500 {
 				System.out.println("Nao recebe aumento.");
 			}
 			System.out.println("Digite fim para sair, qualquer outro para continuar.");
-			saida = leitor.nextLine();
+			saida = leitor.nextLine();// nao funciona//
 			if (saida == "fim"){
 				break;
 			}
